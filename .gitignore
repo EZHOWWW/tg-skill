@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+.sessions/
+*.session
+inbox/
+dist/
+__pycache__/
